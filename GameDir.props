@@ -1,0 +1,6 @@
+<Project>
+  <!-- Copy this file to GameDir.props (which git ignores) and set the path to your SPT folder. -->
+  <PropertyGroup>
+    <GameDir>E:\Games\Tarkov SPT</GameDir>
+  </PropertyGroup>
+</Project>
